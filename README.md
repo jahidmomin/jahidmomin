@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working as webdevloper
+### 🔭 I’m currently working as webdevloper 
+### 🌱 Frameworker Codeignitor
 ### 🌱 I’m currently learning react js
 ### 📫 How to reach me: instagram/mominjahid 
 ### 🤔 Who am I : Frontend | Backend | Desktop App | Content Creator
