@@ -4,9 +4,9 @@
 ### 🌱 Frameworker Codeignitor
 ### 🌱 I’m currently learning react js
 ### 📫 How to reach me: instagram/mominjahid 
-### 🤔 Who am I : Frontend | Backend | Desktop App | Content Creator
+### 🤔 Who am I : Frontend | Backend | Content Creator
 ### ⚡ Fun fact: i love java but i am working with diff technologies...
-### 💬 Ask me about : java , php , js 
+### 💬 Ask me about : java , php , reactjs 
 
 <!--
 **jahidmomin/jahidmomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
